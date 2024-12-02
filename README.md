@@ -1,1 +1,2 @@
-# youtube-watermark-removal
+# 主要功能
+ - 去掉视频中的水印.
